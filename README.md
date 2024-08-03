@@ -20,7 +20,7 @@ I’m currently focused on enhancing the functionality and user experience of my
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me via [LinkedIn](#) or [email](mailto:your.email@example.com). I'm always open to discussions and collaborations on new projects!
+Feel free to connect with me via [LinkedIn](#) or [email](mailto:your.ingalejay1@gmail.com). I'm always open to discussions and collaborations on new projects!
 
 ---
 
