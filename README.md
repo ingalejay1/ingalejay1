@@ -20,7 +20,7 @@ I’m currently focused on enhancing the functionality and user experience of my
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me via [LinkedIn](#) or [email](mailto:your.ingalejay1@gmail.com). I'm always open to discussions and collaborations on new projects!
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/jay-ingale-849a5a186?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BeYUmgUG%2FR9SWEskp%2B7fBUA%3D%3D) or [email](mailto:your.ingalejay1@gmail.com). I'm always open to discussions and collaborations on new projects!
 
 ---
 
