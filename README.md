@@ -25,11 +25,15 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 💻 **MERN Stack Specialist & React.js Expert**
-- 🌱 Currently learning **DSA**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 💬 Ask me about React, Node.js, Express, MongoDB, or how to survive a caffeine overdose.
 - 📫 How to reach me: [ingalejay1@gmail.com](mailto:ingalejay1@gmail.com)
-- ⚡ Fun fact: I debug code faster than I debug life!
+- ⚡ Fun fact: I debug code faster than I debug life! (And trust me, life has some nasty bugs.)
+- 🌱 Currently learning DSA and how to juggle my sanity with deadlines.
+- 🤖 Interested in AI and Machine Learning... because who doesn't want a robot overlord?
+- 📈 Passionate about data visualization and analytics, because seeing my problems graphically helps.
+
+  
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
