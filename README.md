@@ -1,16 +1,46 @@
-<div align="center">
-  <h1>
-# Hi there! I'm Jay Ingale 👋
-  </h1>
-</div>
+<img width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hi there! 
+  I'm Jay Ingale 
+   <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+</h1>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400" />
 </div>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Specialist;React.js+Enthusiast;Always+Learning+New+Technologies"
+      alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,tailwind,html,css,js,git,vscode,postman,&perline=6" />
+</p>
+
+<h2 align="center">🚀 Quick Facts</h2>
+
+<img align="right" alt="Coding" width="300"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 💻 MERN Stack Specialist & React.js Expert
+- 🌱 Currently learning  DSA
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 📫 How to reach me: [ingalejay1@gmail.com](mailto:ingalejay1@gmail.com)
+- ⚡ Fun fact: I debug code faster than I debug life!
 
 
-Welcome to my GitHub profile! I'm a passionate web developer who loves building dynamic and responsive web applications. Here’s a little bit about me and what I'm working on.
+
+
 
 ## 🚀 About Me
 
