@@ -38,6 +38,44 @@
 - 📫 How to reach me: [ingalejay1@gmail.com](mailto:ingalejay1@gmail.com)
 - ⚡ Fun fact: I debug code faster than I debug life!
 
+- <h2 align="center">📊 GitHub Statistics</h2>
+
+
+<p align="center">
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=ingalejay1&show_icons=true&theme=radical" />
+  <img width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ingalejay1&theme=radical" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingalejay1&theme=radical&layout=compact"
+    alt="Top Languages" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
