@@ -95,6 +95,27 @@
 </p>
 
 
+<details>
+  <summary>
+    <h3>🎵 Now Playing</h3>
+  </summary>
+  <br />
+
+
+  <p align="center">
+    <img
+      src="https://spotify-github-profile.vercel.app/api/view?uid=31tbomewbnbwyot73gsekqonfb2e&cover_image=true&theme=default&bar_color_cover=true"
+      alt="Spotify Now Playing" width="300" />
+  </p>
+</details>
+
+<h3 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
+</h3>
+
+<img width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 
 
@@ -123,29 +144,6 @@
 
 
 
-## 🚀 About Me
-
-I specialize in creating user-friendly interfaces and robust backends to deliver exceptional digital experiences. Currently, I’m engaged in exciting projects like a Resume Builder web app and an emergency response application.
-
-## 🛠️ Technologies & Tools
-
-- **Frontend:** React.js, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, VS Code
-
-
-## 📈 What I'm Working On
-
-I’m currently focused on enhancing the functionality and user experience of my projects. I’m also exploring new technologies and frameworks to stay up-to-date with industry trends.
-
-## 📫 How to Reach Me
-
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/jay-ingale-849a5a186?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BeYUmgUG%2FR9SWEskp%2B7fBUA%3D%3D) or [email](mailto:your.ingalejay1@gmail.com). I'm always open to discussions and collaborations on new projects!
-
----
-
-Thank you for visiting my profile. Happy coding! 🚀
 
 
 
