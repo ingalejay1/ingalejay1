@@ -39,8 +39,6 @@
 - ⚡ Fun fact: I debug code faster than I debug life!
 
 - <h2 align="center">📊 GitHub Statistics</h2>
-
-
 <p align="center">
   <img width="49%"
     src="https://github-readme-stats.vercel.app/api?username=ingalejay1&show_icons=true&theme=radical" />
@@ -53,6 +51,51 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingalejay1&theme=radical&layout=compact"
     alt="Top Languages" />
 </p>
+
+<details>
+  <summary>
+    <h3>📌 Featured Projects</h3>
+  </summary>
+  <br />
+
+
+  <p align="center">
+    <a href="https://github.com/razak571/tmvMovies">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=razak571&repo=tmvMovies&theme=radical"
+        alt="The Movies Vault" />
+    </a>
+    <a href="https://github.com/razak571/turboGPT">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=razak571&repo=turboGPT&theme=radical"
+        alt="TURBO-GPT" />
+    </a>
+    <a href="https://github.com/razak571/tomato">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=razak571&repo=tomato&theme=radical"
+        alt="Tomato" />
+    </a>
+  </p>
+</details>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ingalejay1&theme=redical&bg_color=20232a&hide_border=true"
+  width="100%" />
+
+<h2 align="center">🌐 Connect with me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jayingale" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn" />
+  </a>
+</p>
+
+
+
 
 
 
