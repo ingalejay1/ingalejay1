@@ -87,7 +87,7 @@
 <h2 align="center">🌐 Connect with me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jayingale" target="_blank">
+  <a href="[https://linkedin.com/in/jayingale](https://www.linkedin.com/in/jay-ingale-849a5a186?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BQkHdIoF6TgGJYAPNbrhbEg%3D%3D)" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn" />
