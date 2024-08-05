@@ -1,4 +1,14 @@
+<div align="center">
+  <h1>
 # Hi there! I'm Jay Ingale 👋
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400" />
+</div>
+
+
 
 Welcome to my GitHub profile! I'm a passionate web developer who loves building dynamic and responsive web applications. Here’s a little bit about me and what I'm working on.
 
